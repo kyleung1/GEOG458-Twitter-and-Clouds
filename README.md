@@ -26,7 +26,7 @@
 
 ## Why do you want to make this comparison
 
-> The reason for this comparison is because gun violence is a hotly debated political issue in the United States and the country continues to be affected by gun violence. Each state has different gun control policies and overall sentiments on the right to bear arms. It would be interesting to compare the sentiments of guns in cities with different levels of laxness in gun control. The level of laxness was selected based on [criminalattorneycincinnati.com](https://www.criminalattorneycincinnati.com/). There are politically left leaning and right leaning states where the cities are located that could be represented in this comparison.
+> The reason for this comparison is because gun violence is a hotly debated political issue in the United States and the country continues to be affected by gun violence. Just today (1/22/2023) there was a mass shooting in Los Angeles so the topic is more relevant than ever. Each state has different gun control policies and overall sentiments on the right to bear arms. It would be interesting to compare the sentiments of guns in cities with different levels of laxness in gun control. The level of laxness was selected based on [criminalattorneycincinnati.com](https://www.criminalattorneycincinnati.com/). There are politically left leaning and right leaning states where the cities are located that could be represented in this comparison.
 
 ## Compare the word clouds and discuss the difference or similarity among the word clouds
 
