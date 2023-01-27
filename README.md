@@ -30,7 +30,7 @@
 
 ## Compare the word clouds and discuss the difference or similarity among the word clouds
 
-> The biggest word for all 3 word clouds is "People". Words like "people", "law", "know", "kill", "don", "ban", "go", "shoot", "more", "use", "out" are all medium to big size in all 3 word clouds. All 3 word clouds have small "right". Los Angeles's cloud contains a large "mass" whereas the Kansas City cloud contains "school". The word clouds for Kansas City and Houston has small "protect" (large in texas but small in Kansas City), large "kid", and small "buy". Kansas seems to be the only one with words like "Ericareport" and "Youtube". There are many other comparisons that could be made but I only listed a notable few.
+> The biggest word for all 3 word clouds is "People". Words like "people", "law", "know", "kill", "don", "ban", "go", "shoot", "more", "use", "out" are all medium to big size in all 3 word clouds. All 3 word clouds have small "right". Los Angeles's cloud contains a large "mass" whereas the Kansas City cloud contains "school". The word clouds for Kansas City and Houston has small "protect" (large in texas but small in Kansas City), large "kid", and small "buy". Kansas seems to be the only one with words like "Ericareport" and "Youtube". There are many other comparisons that could be made but I only listed a notable few. Most words seem to be shared between the 3 word clouds with some minor differences in sizes and words.
 
 ## What might be the possible reasons for the patterns you observed
 
